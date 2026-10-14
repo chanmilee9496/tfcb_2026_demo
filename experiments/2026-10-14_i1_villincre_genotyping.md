@@ -41,7 +41,7 @@ This experiment is to identify the presence of Villin-Cre transgene in mouse ear
 1. Save as both SCN file and Export for Publication (.tif)
 
 ## Result
-![Agarose gel of Villin-Cre PCR products](img/vc_gel_mouse_21V1_to_21G3.png)
+![Agarose gel of Villin-Cre PCR products](img/vc_gel_mouse_20V1_to_21G3.png)
 
 Agarose gel of Villin-Cre genotyping PCR products from mouse ear clip DNA (mice 21V1 to 21G3), with 100 bp ladder. Positive for Hemizygosity and Negative control lanes labelled. Image taken on the ChemiDoc by Chan Mi Lee. 
 
