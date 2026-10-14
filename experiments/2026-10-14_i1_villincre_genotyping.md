@@ -4,16 +4,18 @@
 [Issue 1](https://github.com/chanmilee9496/tfcb_2026_demo/issues/1)
 
 This experiment is to identify the presence of Villin-Cre transgene in mouse ear clip tissue, by PCR amplification and subsequent gel electrophoresis of mouse genomic DNA.
-## Reagents
+
+## Reagents 
 
 | reagent | vendor | catalog number | stock concentration | final concentration |
 |---|---|---|---|---|
 | SYBR Safe DNA gel stain | Invitrogen | S33102 | 10,000X | 0.5X |
 | OneTaq 2x MasterMix | NewEngland Biolabs | M0482S | 2X | 1X |
-| Villin-Cre primers | IDT | N/A custom primers | 100 µM | 10µM |
+| Villin-Cre primers | IDT | N/A, custom primers | 100 µM | 10µM |
 | 100 bp DNA ladder | GoldBio | D001-500 | 0.1 μg/μL | 0.1 μg/μL |
 
 ## Procedure 
+
 1. Calculate how much of each reagent is needed, where each sample will be loaded into PCR tubes, and the final gel
 1. To a 1ml tube, add in this order: H2O, Mastermix, Primers 
 1. Label your strip tubes
@@ -24,7 +26,8 @@ This experiment is to identify the presence of Villin-Cre transgene in mouse ear
 1. Measure out 1 gram of Agarose in erlenmeyer flask
 1. Add 100mL of 1x TBE.
 1. Swirl to mix 
-1. Microwave 2 minutes, bubbles should dissipate without clumps when swirling. 
+1. Microwave 2 minutes, bubbles should dissipate.
+1. Swirl to check there are no clumps. 
 1. Add 5uL of SYBRSafe dye to gel solution
 1. Pour into molds 
 1. Let set until PCR is done (about one hour) in dark
@@ -39,4 +42,6 @@ This experiment is to identify the presence of Villin-Cre transgene in mouse ear
 ## Result
 ![Agarose gel of Villin-Cre PCR products](img/vc_gel_mouse_21V1_to_21G3.png)
 
-Agarose gel of Villin-Cre genotyping PCR products from mouse ear clip DNA (mice 21V1 to 21G3), with 100 bp ladder. Positive for Hemizygosity and Negative control lanes labelled. Image taken on the ChemiDoc by Chan Mi Lee.
+Agarose gel of Villin-Cre genotyping PCR products from mouse ear clip DNA (mice 21V1 to 21G3), with 100 bp ladder. Positive for Hemizygosity and Negative control lanes labelled. Image taken on the ChemiDoc by Chan Mi Lee. 
+
+********
