@@ -1,0 +1,28 @@
+This experiment is to identify the presence of Villin-Cre protein in mouse ear clip tissue, by PCR amplification and subsequent gel electrophoresis of mouse genomic DNA.
+
+Protocol
+Set up genotyping spreadsheet, indicating how much MasterMix to make, and where each sample will be loaded into PCR tubes, and the final gel
+Thaw all reagents
+Prepare mastermix according to each spreadsheet protocol, adding 2x Mango PCR Mix (Kras and Apc) or OneTaq Quick-Load 2x MM (VC and TdTomato), primers, and H2O as calculated
+Add in this order: H2O, Mastermix, Primers 
+Label your strip tubes
+Load the appropriate amount of DNA (2uL) into each well of the PCR strip tube(s), including controls. 
+Add in the appropriate amount of master mix (18uL)
+Close tightly, vortex (in the rack), and spin down. Hold strip tubes on rack firmly while vortexing. Make sure tubes are seated securely on table top centrifuges. 
+Add strip tubes to the PCR machine and run the appropriate protocol, they should be listed under Kelly’s file but make sure to double check with the PCR settings listed in the protocol excel file
+DO NOT BRING PRE-PCR RACKS/ETC TO PCR ROOM.
+Make your gel: measure out 1 gram of Agarose, place in beaker located in the back right corner behind the sink, and add 100mL of 1x TBE.
+Swirl to mix and microwave about 2 minutes, bubbles should dissipate with swirling, then check for any crystals/clumps in solution
+Add 5uL of SyberSafe dye to gel solution and swirl to combine
+Pour into molds and let set until PCR is done (about one hour) with lights off in the room for better results
+Once PCR is done, remove gel from mold, place in gel electrophoresis box, and top off 1x TBE if needed
+Quickly spin down any condensation in the PCR strip tubes
+Load 5uL of ladder on each end of each row of the gel. Use 100bp ladder from Gold Bio.
+Load 10uL of PCR product to each well
+Reserve control wells for each gel. 
+Run the gels at about 150 for 10-20 minutes, feel free to adjust as needed, keeping an eye on the ladder and dye front. Run in dark. 
+Remove gel from box and take to ChemiDoc in utility hallway
+Open Image Lab > New… > Application/Select… > Nucleic acid gels > SYBR Safe (keep all other settings standard) > Position gel > Run protocol
+Save as both SCN file and Export for Publication (.tif)
+Toss gel
+Add TIF to the genotyping protocol spreadsheet, use it and/or original SCN file to read the bands.
