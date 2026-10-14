@@ -35,7 +35,8 @@ This experiment is to identify the presence of Villin-Cre transgene in mouse ear
 1. Load 5uL of ladder on each end of each row of the gel. Use 100bp ladder from Gold Bio.
 1. Load 10uL of PCR product to each well
 1. Run the gels at about 150V for 20 minutes in dark. 
-1. Remove gel from box and take to ChemiDoc in utility hallway
+1. Remove gel from box
+1. Transport gels on a tray to ChemiDoc in utility hallway
 1. Open Image Lab > New… > Application/Select… > Nucleic acid gels > SYBR Safe (keep all other settings standard) > Position gel > Run protocol
 1. Save as both SCN file and Export for Publication (.tif)
 
